@@ -1,0 +1,181 @@
+.section_one {
+	border-style: solid;
+	margin: 50px 0px 100px;
+	height: 250px;
+	width: 500px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 100px
+	
+}
+
+
+
+.section_two {
+	margin: 0px 775px;
+	height: 250px;
+	width: 500px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 100px;
+	border-style: solid;
+
+	
+}
+
+.section_three {
+	margin: 0px 0px 50px;
+	height: 250px;
+	width: 500px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 100px;
+	border-style: solid;
+	}
+
+.section_four {
+	border-top-style: solid ;
+	border-color: white;
+	background-color: black;
+	color: white;
+}
+
+
+
+.navbar {
+	height: 50px;
+	background-color: black;
+	width: 100%;
+	margin-bottom: 100px;
+	border-bottom-style: solid ;
+	border-color: white;
+}
+
+.section_one_text {
+	font-family: pacifico;
+	color: white;
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0;
+
+
+}
+
+.section_two_text {
+	font-family: pacifico;
+	color: white;
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0;
+
+
+}
+
+.section_three_text {
+	font-family: pacifico;
+	color: white;
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0;
+
+}
+
+.section_four_text {
+	font-family: pacifico;
+	color: white;
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0;
+}
+
+.social-icon {
+width: 75px;
+height: 75px;
+margin: 0 5px;
+border-radius: 10px;
+border-style: solid;
+border-width: 5px;
+}
+
+.projects_head {
+	padding-left: 20px;
+	font-size: 25px;
+}
+
+.footer_text {
+	float: right;
+	margin-right: 50px;
+	width: 375px;
+	font-size: 16px;
+	position: relative ;
+	bottom: 40px;
+	
+}
+
+/*.html_pic {
+	height: 150px;
+	width: 150px;	
+}
+
+.css_pic {
+	height: 145px;
+	width: 145px;
+}
+
+.js_pic {
+	height: 165px;
+	width: 165px;
+}
+
+.ruby_pic {
+	height: 225px;
+	width: 250px;
+	margin: -45px;
+}*/
+
+a {
+	text-decoration: none;
+	color: black;
+	font-family: pacifico;
+	color: white;
+	 text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0;
+}
+
+body {
+	background-image: url(http://davedicello.com/wp-content/uploads/2014/10/Wide-angle-aerial-view-of-the-Pittsburgh-skyline.jpg);
+	margin: auto;
+
+
+
+}
+
+footer {
+	margin-bottom: -70px;
+	padding-bottom: -50px;
+	
+}
+
+
+
+
+
+
+
+
+
+
